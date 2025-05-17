@@ -3,7 +3,7 @@ package fr.esigelec.jee;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import fr.esigelec.jee.dao.TableDAO;
+import fr.esigelec.dao.TableDAO;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;

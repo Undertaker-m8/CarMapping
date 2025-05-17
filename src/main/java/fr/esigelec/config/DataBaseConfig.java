@@ -1,4 +1,4 @@
-package fr.esigelec.jee.config;
+package fr.esigelec.config;
 
 
 

@@ -1,10 +1,10 @@
-package fr.esigelec.jee.dao;
+package fr.esigelec.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-import fr.esigelec.jee.config.DataBaseConfig;
+import fr.esigelec.config.DataBaseConfig;
 
 public class ConnectionDAO {
     public Connection getConnection() throws SQLException {

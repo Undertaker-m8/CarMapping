@@ -1,4 +1,4 @@
-package fr.esigelec.jee.dao;
+package fr.esigelec.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
