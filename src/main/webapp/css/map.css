@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+#maCarte {
+    height: 400px;
+    width: 100%;
+    margin: 20px 0;
+    z-index: 1;
+}
+
+/* Styles pour les clusters de marqueurs */
+.marker-cluster-small {
+    background-color: rgba(181, 226, 140, 0.6);
+}
+.marker-cluster-medium {
+    background-color: rgba(241, 211, 87, 0.6);
+}
